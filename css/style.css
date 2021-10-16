@@ -5,7 +5,7 @@ body {
 .dino {
     width: 60px;
     height: 60px;
-    background-image: url(/assets/dino.png);
+    background-image: url(/dio-desafio-dino-game/assets/dino.png);
     position: absolute;
     bottom: 0;
 }
@@ -15,7 +15,7 @@ body {
     width: 60px;
     height: 60px;
     bottom: 0;
-    background-image: url(/assets/cactus.png);
+    background-image: url(/dio-desafio-dino-game/assets/cactus.png);
 }
 
 .game-over {
@@ -38,7 +38,7 @@ body {
 .background {
     position: absolute;
     bottom: 0;
-    background-image: url(/assets/background.png);
+    background-image: url(/dio-desafio-dino-game/assets/background.png);
     background-repeat: repeat-x;
     animation: slideright 600s infinite linear;
     width: 100%;
