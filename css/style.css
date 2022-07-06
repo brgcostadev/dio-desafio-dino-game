@@ -1,46 +1,46 @@
 body {
-    background: #fafafa;
+	background: #fafafa;
 }
 
 .dino {
-    width: 60px;
-    height: 60px;
-    background-image: url(/dio-desafio-dino-game/assets/dino.png);
-    position: absolute;
-    bottom: 0;
+	width: 60px;
+	height: 60px;
+	background-image: url(../assets/dino.png);
+	position: absolute;
+	bottom: 0;
 }
 
 .cactus {
-    position: absolute;
-    width: 60px;
-    height: 60px;
-    bottom: 0;
-    background-image: url(/dio-desafio-dino-game/assets/cactus.png);
+	position: absolute;
+	width: 60px;
+	height: 60px;
+	bottom: 0;
+	background-image: url(../assets/cactus.png);
 }
 
 .game-over {
-    font-family: monospace;
-    text-align: center;
-    font-size: 60px;
-    color: #666;
+	font-family: monospace;
+	text-align: center;
+	font-size: 60px;
+	color: #666;
 }
 
 #keyframes slideright {
-    from {
-        background-position: 70000%;
-    }
+	from {
+		background-position: 70000%;
+	}
 
-    to {
-        background-position: 0;
-    }
+	to {
+		background-position: 0;
+	}
 }
 
 .background {
-    position: absolute;
-    bottom: 0;
-    background-image: url(/dio-desafio-dino-game/assets/background.png);
-    background-repeat: repeat-x;
-    animation: slideright 600s infinite linear;
-    width: 100%;
-    height: 200px;
+	position: absolute;
+	bottom: 0;
+	background-image: url(../assets/background.png);
+	background-repeat: repeat-x;
+	animation: slideright 600s infinite linear;
+	width: 100%;
+	height: 200px;
 }
