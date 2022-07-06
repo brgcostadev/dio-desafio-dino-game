@@ -1,4 +1,4 @@
-# O desafio foi proposto pela Digital Innovation One.
+# O desafio foi proposto pela Digital Innovation One
 Jogo inspirado no T-Rex Game, um jogo integrado no navegador Google Chrome.
 O desafio foi realizado no intuito de consolidar conhecimentos acerca do javascript, para jogar [clique aqui!](https://brgcostadev.github.io/dio-desafio-dino-game/)
 
